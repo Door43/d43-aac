@@ -15,5 +15,5 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 **Language Information**
 
-* [[http://www.ethnologue.com/language/aac|Ethnologue data]]
+[[http://www.ethnologue.com/language/aac|Ethnologue data]]
 
