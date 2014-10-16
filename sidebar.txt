@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aac:home|Door43 (aac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aac|d43-aac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aac/archive/master.zip|d43-aac.zip]]
+
+**Recent Changes**
+{{changes>ns = aac}}
+
+**Language Information**
+
+* [[http://www.ethnologue.com/language/aac|Ethnologue data]]
+
